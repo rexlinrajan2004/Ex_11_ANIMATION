@@ -22,8 +22,8 @@ Android Studio(Latest Version)
 ```
 /*
 Program to display animation operation”.
-Developed by: CHANDRU V
-Registeration Number : 212222040029
+Developed by: REXLIN R
+Registeration Number : 212222220034
 */
 ```
 
